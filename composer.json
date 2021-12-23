@@ -1,0 +1,26 @@
+{
+    "name": "mennen-online/laravel-validation-rules",
+    "description": "Provides additional Validation Rules for Laravel >=8.0",
+    "require": {
+        "illuminate/validation": "^8.77"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "MennenOnline\\LaravelValidationRules\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MennenOnline\\LaravelValidationRules\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hendrik Mennen",
+            "email": "hendrik.mennen@mennen.online"
+        }
+    ]
+}
