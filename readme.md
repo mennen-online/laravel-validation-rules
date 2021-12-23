@@ -4,7 +4,7 @@
 
 ### Installation ###
 
-Install via [composer](http://getcomposer.org) in the root directory of a Laravel 5 application
+Install via [composer](http://getcomposer.org) in the root directory of a Laravel 8 application
 
     composer require mennen-online/laravel-validation-rules
 
